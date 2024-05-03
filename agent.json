@@ -1,0 +1,14 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 959075490009,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/959075490009/locations/global/collections/default_collection/engines/55fd390c-f3bd-48b8-a4b0-f9dec9e52700"
+  },
+  "startPlaybook": "BytesAgent"
+}

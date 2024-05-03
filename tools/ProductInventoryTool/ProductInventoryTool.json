@@ -1,0 +1,9 @@
+{
+  "name": "a8a67c41-245d-43d0-9169-28ff6e707b34",
+  "displayName": "ProductInventoryTool",
+  "description": "this tool can return quantity for a product",
+  "openApiSpec": {
+  
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}
